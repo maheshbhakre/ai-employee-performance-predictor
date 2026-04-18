@@ -24,13 +24,15 @@ It helps organizations:
 
 ## 🎥 Demo Video
 
-[![Watch Video](images/video_thumbnail2.png)](images/Video Project 2.mp4)
+[![Watch Video](images/video_thumbnail2.png)](images/project_demo2.mp4)
 
 ---
 
 ## 📊 Dashboard Preview
 
-*(Add dashboard screenshots here later if needed)*
+![Dashboard](images/dash1.png)
+![Dashboard](images/dash2.png)
+
 
 ---
 
