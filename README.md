@@ -24,7 +24,7 @@ It helps organizations:
 
 ## 🎥 Demo Video
 
-[![Watch Video](images/Video Project 2.mp4)](images/Video Project 2.mp4)
+[![Watch Video](images/video_thumbnail2.png)](images/Video Project 2.mp4)
 
 ---
 
